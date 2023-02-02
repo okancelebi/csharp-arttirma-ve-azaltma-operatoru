@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\bin\Debug\arttırma ve azaltma operatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\bin\Debug\arttırma ve azaltma operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\bin\Debug\arttırma ve azaltma operatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\obj\Debug\arttırma ve azaltma operatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\obj\Debug\arttırma ve azaltma operatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\obj\Debug\arttırma ve azaltma operatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\obj\Debug\arttırma ve azaltma operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\arttırma ve azaltma operatörü\arttırma ve azaltma operatörü\obj\Debug\arttırma ve azaltma operatörü.pdb
